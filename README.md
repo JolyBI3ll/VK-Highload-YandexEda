@@ -283,31 +283,31 @@
 
 ## 5. Логическая схема БД
 
-![Логическая БД.png](Логическая%20БД%20DZ5.png)
+![Логическая БД.png](assets/Логическая%20БД%20DZ5.png)
 
 ## 6. Физическая схема БД
 
-![Логическая БД.png](Логическая%20БД%20DZ5.png)
+![Логическая БД.png](assets/Логическая%20БД%20DZ5.png)
 
 postgreSQL
 
-![image](https://github.com/user-attachments/assets/6a02d1dc-3a3a-4761-9fa1-01ad3edb9894)
+![image](assets/1.png)
 
 Kafka
 
-![image](https://github.com/user-attachments/assets/1b1c1654-e062-4f0a-b4fd-4488d0a98c1b)
+![image](assets/2.png)
 
 Redis
 
-![image](https://github.com/user-attachments/assets/5845b469-c1ae-4821-81c1-07805e6df1f3)
+![image](assets/3.png)
 
 Amazon S3
 
-![image](https://github.com/user-attachments/assets/ec619d4d-113f-48c8-be61-b4c29ebdbd77)
+![image](assets/5.png)
 
 ClickHouse
 
-![image](https://github.com/user-attachments/assets/fdee2992-c163-4f10-9cbf-915273dbd9e6)
+![image](assets/4.png)
 
 EllasticSearch
 
